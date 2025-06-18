@@ -1,6 +1,6 @@
 # Simple Keylogger (Practice)
 
-This repository contains two Python scripts demonstrating a basic keylogger setup for educational purposes. **This is for practice and learning only and should not be used maliciously.**
+This folder contains two Python scripts demonstrating a basic keylogger setup for educational purposes. **This is for practice and learning only and should not be used maliciously.**
 
 ## Files
 
